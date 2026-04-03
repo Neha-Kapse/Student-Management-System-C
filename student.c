@@ -98,7 +98,7 @@ void login() {
 }
 
 int main() {
-    int choice;
+    int choices;
 
     login();
 
